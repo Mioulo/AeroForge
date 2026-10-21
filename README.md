@@ -12,7 +12,7 @@
 
 📦 总装、碳板与打印件按飞机分别打包，统一放在本仓库 [Releases](https://github.com/Mioulo/AeroForge/releases)。
 
-## 🪶 2.5 寸紧凑型
+## 🪶 2寸紧凑型
 
 <p align="center"><img src="assets/2p5-compact/design.png" alt="SW 总装图" height="200"> &nbsp; <img src="assets/2p5-compact/display.png" alt="实拍图" height="200"></p>
 
